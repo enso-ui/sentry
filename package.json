@@ -1,22 +1,22 @@
 {
-  "name": "@enso-ui/sentry",
-  "version": "1.1.0",
-  "description": "Sentry",
-  "main": "src/reportable.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/@enso-ui/sentry.git"
-  },
-  "keywords": [
-    "enso",
-    "sentry",
-    "vue"
-  ],
-  "author": "Adrian Ocneanu <aocneanu@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/@enso-ui/sentry/issues"
-  },
-  "homepage": "https://github.com/@enso-ui/sentry#readme",
-  "dependencies": {}
+    "name": "@enso-ui/sentry",
+    "version": "1.1.0",
+    "description": "Sentry beforeSend filter for duplicate browser errors.",
+    "main": "src/reportable.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/@enso-ui/sentry.git"
+    },
+    "keywords": [
+        "enso",
+        "sentry",
+        "vue"
+    ],
+    "author": "Adrian Ocneanu <aocneanu@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/@enso-ui/sentry/issues"
+    },
+    "homepage": "https://github.com/@enso-ui/sentry#readme",
+    "dependencies": {}
 }
